@@ -7,3 +7,7 @@ spring:
     test-on-borrow: true
     test-while-idle: true
     validation-query: SELECT 1;
+
+spring.social.facebook.appId: 580826909015522
+spring.social.facebook.appSecret: 3b046964949524dff45a9acea244ae4e
+

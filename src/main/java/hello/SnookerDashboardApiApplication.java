@@ -1,4 +1,4 @@
-package p.russo.manuel.snookerdashboardapi;
+package hello;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
