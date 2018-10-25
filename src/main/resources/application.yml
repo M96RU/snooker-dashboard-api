@@ -7,3 +7,9 @@ spring:
     test-on-borrow: true
     test-while-idle: true
     validation-query: SELECT 1;
+
+spring.security.user.password: password
+
+spring.security:
+  ignored:
+  - "*.bundle.*"
