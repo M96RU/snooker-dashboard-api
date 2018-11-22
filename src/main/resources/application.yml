@@ -7,3 +7,10 @@ spring:
     test-on-borrow: true
     test-while-idle: true
     validation-query: SELECT 1;
+
+snooker:
+  token:
+    header: Authorization
+    prefix: "Bearer "
+    expiration: 7200 # 2 hours in seconds
+    secret: MySecret
